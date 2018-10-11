@@ -925,7 +925,7 @@ input, select, textarea {
     background: none;
     border: solid 2px #e5e6e7;
     color: inherit;
-	margin: 10px;
+	margin-bottom: 10px;
     border-radius: 0.5em;
     outline: none;
   }
