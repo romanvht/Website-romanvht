@@ -86,7 +86,7 @@
 					<textarea name="message" placeholder="Сообщение"></textarea>
 					<input type="submit" name="submit" value="Отправить">
 				</form>
-			</p>
+			</p>	
           </header>
         </div>
 		<a href="#intro" class="button style3 up anchored">Вверх</a>
