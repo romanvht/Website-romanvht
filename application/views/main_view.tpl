@@ -75,6 +75,7 @@
             <p class="left">Если вас что-то интересует и вы оказались здесь не просто так, то ниже предоставлены контакты:</p>
             <p class="left"><strong><i class="fa fa-envelope fa-fw" aria-hidden="true"></i> E-Mail: <a href="mailto:roman.vkostin@gmail.com">roman.vkostin@gmail.com</a></strong><br/>
             <strong><i class="fa fa-vk fa-fw" aria-hidden="true"></i> ВКонтакте: <a href="//vk.com/romanvht">romanvht</a></strong><br/>
+			<strong><i class="fa fa-github fa-fw" aria-hidden="true"></i> GitHub: <a href="//github.com/romanvht">romanvht</a></strong><br/>
 			<strong><i class="fa fa-telegram fa-fw" aria-hidden="true"></i> Telegram: <a href="https://tlgg.ru/romanvht">@romanvht</a></strong></p>
 			
 			<p>
