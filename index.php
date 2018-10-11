@@ -1,5 +1,4 @@
 <?php
-if(isset($_GET['phpinfo']))echo phpinfo();
 require_once 'application/core/model.php';
 require_once 'application/core/view.php';
 require_once 'application/core/controller.php';
